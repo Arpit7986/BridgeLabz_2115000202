@@ -1,24 +1,19 @@
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class RemoveDuplicate {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
-        System.out.print("Enter the String: - ");
-        String str = sc.nextLine();
-        HashSet<Character> set = new HashSet<>();
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
-            if (!set.contains(ch)) {
-                set.add(ch);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the string:");
+        String input = sc.nextLine();
+        System.out.println("Enter the character to remove:");
+        char charToRemove = sc.next().charAt(0);
+        String ans = "";
+        for (char ch : input.toCharArray()) {
+            if (ch != charToRemove) {
+                ans += ch;
             }
         }
-        String modifiesString="";
-        for (Character ch : set) {
-            modifiesString+=ch;
-        }
-        System.out.println("After Removing Duplicates :- " + modifiesString);
-
+        System.out.println("Modified String: " + ans);
         sc.close();
     }
 }
