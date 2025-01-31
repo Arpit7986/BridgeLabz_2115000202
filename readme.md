@@ -1,4 +1,4 @@
-# BridgeLabz_2115000202
+# Bridgelabz_2115000202
 
 This repository contains the progress and work done for the Java learning journey.
 
