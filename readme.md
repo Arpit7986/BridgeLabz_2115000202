@@ -42,7 +42,7 @@ This repository contains the progress and work done for the Java learning journe
 - User Input
 - Best Programming Practices to follow when writing a program
 
-✅ Successfully completed all Level-1 and Level-2 practice problems of **Assignment 2**: _Programming Elements Practices_ and pushed them to GitHub.
+✅ Successfully completed all Level-1 and Level-2 practice problems of **Assignment 1**: _Programming Elements Practices_ and pushed them to GitHub.
 
 ### Date: 23-01-2025
 
@@ -55,7 +55,7 @@ This repository contains the progress and work done for the Java learning journe
 - `while loop`
 - `do-while loop`
 
-✅ Successfully completed all Level-1, Level-2, and Level-3 practice problems of **Assignment 3**: _Java Control Flow_ and pushed them to GitHub.
+✅ Successfully completed all Level-1, Level-2, and Level-3 practice problems of **Assignment 2**: _Java Control Flow_ and pushed them to GitHub.
 
 ### Date: 24-01-2025
 
@@ -69,7 +69,7 @@ This repository contains the progress and work done for the Java learning journe
 
 ### Date: 25-01-2025
 
-✅ Successfully completed all Level-1 and Level-2 practice problems of **Assignment 4**: _Arrays Practices_ and pushed them to GitHub.
+✅ Successfully completed all Level-1 and Level-2 practice problems of **Assignment 3**: _Arrays Practices_ and pushed them to GitHub.
 
 - Enhanced knowledge by learning additional escape sequences (other than `\n`) and practiced them in assignments.
 
@@ -77,4 +77,4 @@ This repository contains the progress and work done for the Java learning journe
 
 - Further revision of all completed topics and completed my **Review Assessment**
 - Explored Java documentation on **Java Methods**
-- Started solving Level-1 problems of **Assignment 5**: _Java Method Practices_
+- Started solving Level-1 problems of **Assignment 4**: _Java Method Practices_
