@@ -17,10 +17,10 @@ public class ReplaceWord {
         for(int i=0;i<a.length;i++)
         {
             if(a[i].equals(t))
-            ans=ans+m;
+            ans=ans+m+" ";
             else    
-            ans=ans+a[i];
+            ans=ans+a[i]+" ";
         }
-        return ans;
+        return ans.trim();
     }
 }
