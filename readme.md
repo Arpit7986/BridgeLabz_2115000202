@@ -144,3 +144,13 @@ This repository contains the progress and work done for the Java learning journe
 - Instance vs. Class Variables & Methods with Examples
 
 ✅ Started working on *Java Constructors, Instance vs. Class Variables, Access Modifiers* practice problems.
+
+---
+
+### Date: 01-02-2025
+**Practiced More Java Concepts**
+- **Access Modifier Programs**
+- **Constructor Programs**
+- **Instance vs. Class Variable and Method Programs**
+
+✅ Completed practice problems for the above topics and pushed them to GitHub.
