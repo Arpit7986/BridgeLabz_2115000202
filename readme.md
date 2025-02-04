@@ -154,3 +154,13 @@ This repository contains the progress and work done for the Java learning journe
 - **Instance vs. Class Variable and Method Programs**
 
 ✅ Completed practice problems for the above topics and pushed them to GitHub.
+
+---
+
+### Date: 03-02-2025
+**Practiced More Java Concepts**
+- **Static Keyword Programs**
+- **Final Keyword Programs**
+- **Instance Keyword Programs**
+
+✅ Completed practice problems for the above topics and pushed them to GitHub.
