@@ -1,7 +1,7 @@
 import java.util.*;
 class Product
 {
-    private static double discount=0;
+    private static double discount=10;
     private String productName;
     private int price;
     private int quantity;
