@@ -173,4 +173,5 @@ This repository contains the progress and work done for the Java learning journe
 - **Object Diagrams**
 - **Sequence Diagrams**
 
+✅ Completed practice problems for the above topics and pushed them to GitHub.
 
