@@ -164,3 +164,13 @@ This repository contains the progress and work done for the Java learning journe
 - **Instance Keyword Programs**
 
 ✅ Completed practice problems for the above topics and pushed them to GitHub.
+
+---
+
+### Date: 03-02-2025
+**Object Oriented Design Principles**
+- **Class Diagram**
+- **Object Diagrams**
+- **Sequence Diagrams**
+
+
