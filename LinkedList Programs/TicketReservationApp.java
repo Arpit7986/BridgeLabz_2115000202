@@ -114,7 +114,7 @@ public class TicketReservationApp {
     public static void main(String[] args) {
         TicketReservationSystem system = new TicketReservationSystem();
 
-        system.bookTicket(101, "Anshu Pathak", "Inception", "A1", "10:00 AM");
+        system.bookTicket(101, "Arpit Jain", "Inception", "A1", "10:00 AM");
         system.bookTicket(102, "Disha Verma", "Interstellar", "B2", "1:00 PM");
         system.bookTicket(103, "Rahul Kumar", "The Dark Knight", "C3", "3:00 PM");
 
